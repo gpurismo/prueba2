@@ -15,7 +15,7 @@ Como ejemplo puedes desarrollar cualquiera de las siguientes soluciones:
 ## Etapas
   * 25 de Noviembre, 18h-20h: Charlas sobre IBM Bluemix, Eris y la UNIR.
   * 26 de Nobiembre, 10h-18h: Desarrollo de la solución.
-  * 26 de Nobiembre, 18h: comienzo de los speechs de 5 minutos por equipo.
+  * 26 de Nobiembre, 18h: comienzo de los speeches de 5 minutos por equipo.
   * 26 de Nobiembre, 19.30h: fallo del jurado.
   * 26 de Nobiembre, 20.30h: fin del hackathon.
   
