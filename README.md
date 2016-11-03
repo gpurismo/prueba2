@@ -4,6 +4,8 @@
 
 El desafío será la realización de una solución enfocada en el uso de Blockchain. Para ello se utilizará como plataforma Eris de Monax Industries y como entorno de despliegue se usará Bluemix de IBM.
 
+Como ejemplo puedes desarrollar cualquiera de las siguientes soluciones:
+
   * Identidad digital
   * Voto electronico
   * Propiedad digital
