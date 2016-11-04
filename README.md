@@ -22,13 +22,13 @@ Como ejemplo puedes desarrollar cualquiera de las siguientes soluciones:
 
 ## Participantes
 
-Los participantes se organizaran en 10 grupos de 3 participantes cada uno.
+Los participantes se organizarán en 10 grupos de 3 participantes cada uno.
 Los grupos podrán recibir el apoyo de los organizadores para la resolución de dudas durante el hackathon.
 
 ## Criterios de evaluación
 
 ### Técnicos
-* Uso correcto de blockchain.
+* Uso correcto de Blockchain.
 * Inmutabilidad.
 * Capacidad de extender la solución con nuevas funcionalidades.
 * Tecnologias utilizadas para el desarrollo de la solución.
@@ -37,9 +37,9 @@ Los grupos podrán recibir el apoyo de los organizadores para la resolución de 
 ### Negocio
 * Solución de problema real.
 * Impacto social.
-* Optimizacion de procesos existentes.
+* Optimización de procesos existentes.
 * Oportunidad de negocio.
-* Facilidad para trasladar la solucion al mundo real.
+* Facilidad para trasladar la solución al mundo real.
 
 ### Apariencia
 * Diseño atractivo.
@@ -47,4 +47,4 @@ Los grupos podrán recibir el apoyo de los organizadores para la resolución de 
 * Privacidad.
 
 ### Presentación
-* Speech Final: correcta presentación de la solucion en 5 minutos.
+* Speech Final: correcta presentación de la solución en 5 minutos.
