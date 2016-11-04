@@ -7,10 +7,10 @@ El desafío será la realización de una solución enfocada en el uso de Blockch
 Como ejemplo puedes desarrollar cualquiera de las siguientes soluciones:
 
   * Identidad digital
-  * Voto electronico
+  * Voto electrónico
   * Propiedad digital
-  * Historial medico
-  * Propon una solución innovadora
+  * Historial médico
+  * ¡Propón una solución innovadora!
   
 ## Etapas
   * 25 de Noviembre, 18h-20h: Charlas sobre IBM Bluemix, Eris y la UNIR.
