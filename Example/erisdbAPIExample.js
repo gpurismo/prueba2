@@ -1,8 +1,8 @@
 const erisDbFactory = require('eris-db');
 const erisContracts = require('eris-contracts');
 const solc = require('solc');
-const accounts = require("./accounts.js").accounts
-const nodes = require("./ips.js")
+const accounts = require("./accounts.js").accounts;
+const nodes = require("./ips.js").ips;
 
 var erisdb; /* ErisDB Factory */
 var erisdbURL; /* ErisDB RPC URL */
