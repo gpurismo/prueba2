@@ -18,5 +18,7 @@ node3: `http://134.168.63.69:1337/rpc`
 
 compiler: `http://134.168.56.175:9099`
 
+### Se os asignara un nodo a cada equipo para no sobrecargarlo
+
 # Cuentas
 Se os dara una cuenta de eris con permisos de desarrollador a cada equipo.
