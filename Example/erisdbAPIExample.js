@@ -37,7 +37,6 @@ var compiledContract = solc.compile(greeterSource);
 var contractFactory = contractManager.newContractFactory(JSON.parse(compiledContract.contracts.greeter.interface)); //parameter is abi
 // console.log(contractFactory)
 
-var instance;
 /* Send the contract */
 contractFactory.new.apply(contractFactory, ["Hello World",
  {from: account, data:compiledContract.contracts.greeter.bytecode}, (err, contractInstance)=> {
