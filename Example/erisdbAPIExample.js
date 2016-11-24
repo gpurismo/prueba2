@@ -9,7 +9,7 @@ var erisdbURL; /* ErisDB RPC URL */
 var pipe; /* Pipe for creating contracts */
 var contractManager;/* Contract Manager for creating contracts*/
 var account = accounts[0].address;
-var greeterSource = 'contract mortal { address owner; function mortal() { owner = msg.sender; } function kill() { if (msg.sender == owner) selfdestruct(owner); } } contract greeter is mortal { string greeting; function greeter(string _greeting) public { greeting = _greeting; } function greet() constant returns (string) { return greeting; } }'
+var greeterSource = 'contract greeter { string greeting; function greeter(string _greeting) public { greeting = _greeting; } function greet() constant returns (string) { return greeting; } }'
 
 
 /*Initialize ERISDB*/
